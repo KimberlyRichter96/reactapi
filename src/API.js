@@ -44,7 +44,7 @@ class API extends Component {
         <section className="py-2 text-center container</div>">
           <div className="row py-lg-5">
             <div className="col-lg-6 col-md-8 mx-auto">
-              <p><img src="images/headerbg.png" className="rounded mx-auto img-fluid" alt="Responsive image" /></p>
+              <p><img src="images/headerbg.png" className="rounded mx-auto img-fluid" alt="Responsive" /></p>
               <p>
                 <a href="https://github.com/KimberlyRichter96/reactapi.git" className="btn btn-dark text-light my-2 text-center">Link to GitHub Repository</a> &nbsp;
               </p>
@@ -73,7 +73,6 @@ class API extends Component {
         <footer className="text-dark py-5 bg-dark">
           <div className="container">
             <p className="float-end mb-1">
-              <a href="#" className="link-light">Scroll to top</a>
             </p>
             <p className="mb-1 text-white">SCP Foundation</p>
             <p className="mb-0 text-white">Thank you for visiting this page</p>
